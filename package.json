@@ -1,0 +1,20 @@
+{
+  "name": "es6-tdd",
+  "version": "1.0.0",
+  "description": "\"Pacote de testes ES6\"",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "teste"
+  ],
+  "author": "Dasaiev Castro <dasaievcastroster@gmail.com>",
+  "license": "MIT"
+}
